@@ -31,3 +31,9 @@ chmod +x clash`
 `socks 127.0.0.1:7890`
 
 socks端口存疑，也可能是7891。
+
+8、网页管理（震惊）
+
+`http://clash.razord.top/#/proxies`
+
+不知道是否安全
