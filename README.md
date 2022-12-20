@@ -1,2 +1,2 @@
 # linuxlearning
-record the procress of my linux learning
+record the process of my linux learning
